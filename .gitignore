@@ -103,3 +103,6 @@ dist
 .tern-port
 # This file should be ignored by git.
 .text.md
+
+# this also 
+node_modules/
