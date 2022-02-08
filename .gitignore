@@ -102,4 +102,4 @@ dist
 # TernJS port file
 .tern-port
 # This file should be ignored by git.
-.text.md/
+.text.md
