@@ -1,13 +1,13 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# Hello Microverse
 
-> Description the project.
+> A basic hello microverse project to test our knowledege on the use of linters.
 
 
 ## Built With
 
-- Major languages
+- HTML
 - Frameworks
 - Technologies used
 
@@ -26,6 +26,44 @@ To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
 
+- Node and NPM
+- Web browser (Google chrome)
+- Code Editor (VSCode)
+
+### Development (Running locally)
+
+- Clone the project
+
+```bash
+git clone https://github.com/basitkorede/html-template.git
+
+```
+
+- Install Dependencies
+
+```bash
+npm install
+```
+
+To run StyleLint by itself, you may run the lint task:
+
+```bash
+npx stylelint "**/*.{css,scss}"
+```
+
+Or to automatically fix issues found (where possible):
+
+```bash
+npx stylelint "**/*.{css,scss}" --fix
+```
+
+You can also check against Webhint:
+
+```bash
+npx hint --telemetry=off .
+```
+
+## 👤 Author
 ### Setup
 
 ### Install
@@ -42,9 +80,9 @@ To get a local copy up and running follow these simple example steps.
 
 👤 **Author1**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
+- GitHub: [@githubhandle](https://github.com/BasitKorede)
 - Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/basit-korede/)
 
 👤 **Author2**
 
